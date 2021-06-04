@@ -6,7 +6,7 @@ chardet==3.0.4
 checkdmarc==4.2.4
 colour==0.1.5
 dj-database-url==0.5.0
-Django==3.0.3
+Django==3.1.9
 django-appconf==1.0.3
 django-autocomplete-light==3.5.1
 django-bootstrap4==1.1.1
